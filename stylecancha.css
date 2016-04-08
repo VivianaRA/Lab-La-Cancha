@@ -1,0 +1,64 @@
+body {
+	margin:10px;
+}
+
+.pasto {
+	background: #80A273;
+	width: 800px;
+	height: 400px;
+	margin:auto;
+}
+
+.linea {
+	border: 1px solid white;
+	width: 768px;
+	height: 365px;
+	position: absolute;
+	top: 25px;
+	left: 127px;
+	clear: both;
+	margin:auto;
+}
+
+#uno {
+	position: absolute;
+	top: 70px;
+	left: 340px;
+}
+
+#dos {
+	position: absolute;
+	right: 105px;
+	top: 123px;
+}
+
+#tres {
+	position: absolute;
+	left: 88px;
+	top: 2px;
+}
+
+.derecha {
+	border: 1px solid white
+	float: right;
+	top: 130px;
+	border-right-style: none;
+}
+
+.medio {
+	border: 1px solid white;
+	width: 100px;
+	height: 150px;
+	position:absolute;
+	right:0;
+	left:0;
+	top:0;
+	bottom:0;
+}
+
+.izquierda{
+	border: 1px solid white
+	top: 130px;
+	float: left;
+	border-left-style: none;
+}
